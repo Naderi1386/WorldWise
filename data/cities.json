@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "id": "49b1",
+      "cityName": "Borriol",
+      "date": "Wed Aug 07 2024 17:25:34 GMT+0330 (Iran Standard Time)",
+      "country": "Spain",
+      "notes": "",
+      "emoji": "🇪🇸",
+      "position": {
+        "lat": 40.052965044188234,
+        "lng": -0.0211271657311829
+      }
+    },
+    {
+      "id": "8091",
+      "cityName": "Castello de la Plana",
+      "date": "Wed Aug 07 2024 17:41:21 GMT+0330 (Iran Standard Time)",
+      "country": "Spain",
+      "notes": "",
+      "emoji": "🇪🇸",
+      "position": {
+        "lat": 40.012768535134185,
+        "lng": -0.03433227539062501
+      }
+    },
+    {
+      "id": "f015",
+      "cityName": "Borriol",
+      "date": "Wed Aug 07 2024 19:14:37 GMT+0330 (Iran Standard Time)",
+      "country": "Spain",
+      "notes": "",
+      "emoji": "🇪🇸",
+      "position": {
+        "lat": 40.066783313330106,
+        "lng": -0.05527496337890626
+      }
+    },
+    {
+      "id": "be7d",
+      "cityName": "Neuvy",
+      "date": "Wed Aug 07 2024 19:14:37 GMT+0330 (Iran Standard Time)",
+      "country": "France",
+      "notes": "",
+      "emoji": "🇫🇷",
+      "position": {
+        "lat": 47.5786433517152,
+        "lng": 1.5820312500000002
+      }
+    }
+  ]
+}
